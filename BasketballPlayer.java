@@ -1,8 +1,8 @@
 package prob1;
 
 /**
- * Represents a baskeball playerZZZ
- * Changes made in VS Code
+ * Represents a baskeball player
+ *
  */
 public class BasketballPlayer {
 
